@@ -58,7 +58,7 @@
     }
     a {
       font: {
-        family: 'pfdintextcomppro-regular-webfont';
+        family: 'PFDinTextCompPro-Regular';
         size: 18px;
       }
       text-transform: uppercase;
@@ -416,7 +416,7 @@
 .sliderInfo {
   @include clearfix;
   &__desc {
-    width: 111px;
+    width: 105px;
     float: left;
   }
   &__price {

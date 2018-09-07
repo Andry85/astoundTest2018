@@ -2,8 +2,8 @@
 FONTS CONNECTION
 --------------------- */
 @font-face {
-  font-family: 'pfdintextcomppro-regular-webfont';
-  src: url("../fonts/pfdintextcomppro-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/pfdintextcomppro-regular-webfont.woff") format("woff"), url("../fonts/pfdintextcomppro-regular-webfont.ttf") format("truetype"), url("../fonts/pfdintextcomppro-regular-webfont.svg#pfdintextcomppro-regular-webfont") format("svg");
+  font-family: 'PFDinTextCompPro-Regular';
+  src: url("../fonts/PFDinTextCompPro-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/PFDinTextCompPro-Regular.woff") format("woff"), url("../fonts/PFDinTextCompPro-Regular.ttf") format("truetype"), url("../fonts/PFDinTextCompPro-Regular.svg#PFDinTextCompPro-Regular") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -179,7 +179,7 @@ body {
       .menu__item {
         margin: 0 20px; } }
     .menu__item a {
-      font-family: 'pfdintextcomppro-regular-webfont';
+      font-family: 'PFDinTextCompPro-Regular';
       font-size: 18px;
       text-transform: uppercase;
       padding: 10px 0 4px 0;
@@ -513,7 +513,7 @@ body {
   clear: both; }
 
 .sliderInfo__desc {
-  width: 111px;
+  width: 105px;
   float: left; }
 
 .sliderInfo__price {
